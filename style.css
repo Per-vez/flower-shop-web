@@ -50,3 +50,46 @@ header{
     margin-top: 5px;
     margin-bottom: 10px;
 }
+
+
+.offer{
+    margin-top: 20px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+    
+    
+}
+
+.offer-container{
+    text-align: center;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+
+}
+
+.offer-title{
+    
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.span-color{
+    color: #E55473;
+}
+
+.offer-description{
+    color: #742839;
+    font-weight: 400;
+    margin-top: 3px;
+}
+
+
+.offer-image{
+    width: 200px;
+    height: 150px;
+    margin-right: 500px;
+    margin-top: 50px;
+}
